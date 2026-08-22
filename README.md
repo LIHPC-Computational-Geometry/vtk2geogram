@@ -1,5 +1,7 @@
 # vtk2geogram : .vtk to .geogram mesh file conversion
 
+[![Maintenance Level: Abandoned](https://badgen.net/badge/Maintenance%20Level/Abandoned?color=fe7d37)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
 ## Motivation
 
 [AlgoHex](https://github.com/cgg-bern/AlgoHex) is a hex-meshing algorithm that can leverage the `CELL_DATA` section of VTK files for feature-aware meshing.
